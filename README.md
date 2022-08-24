@@ -1,2 +1,5 @@
-# web-components-js
-Created with WebComponents.dev
+# Standard JS WebComponent Starter-kit
+
+## Links
+
+- [A Brief Introduction](https://www.webcomponents.org/introduction)
