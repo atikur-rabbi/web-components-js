@@ -1,7 +1,7 @@
 {
   "name": "@wcd/atikur-rabbi.plainjs-l77grxk3",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
-    "serve": "npx wcd-cli@latest serve 6UHV7ZTWmKRdsc7zEBEv --open"
+    "start": "npx wcd-cli@latest serve 6UHV7ZTWmKRdsc7zEBEv --open"
   }
 }
